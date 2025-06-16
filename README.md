@@ -10,6 +10,18 @@ A **Web Academy** é uma iniciativa educacional voltada para a formação de des
 
 ---
 
+## 🏛️ Informações Gerais
+- **Instituição:** Universidade Federal do Acre — UFAC  
+  🔗 Site: [https://www.ufac.br/](https://www.ufac.br/)
+
+### Docentes
+- **Catarina de Souza Costa:** http://lattes.cnpq.br/3445843226759945
+- ...
+- ...
+- ...
+  
+---
+
 ## 🎯 Objetivo deste repositório
 
 Este repositório tem como finalidade documentar toda a jornada de aprendizado da Turma 7 da Web Academy, servindo como:
