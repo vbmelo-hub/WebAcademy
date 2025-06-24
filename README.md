@@ -17,7 +17,7 @@ A **Web Academy** é uma iniciativa educacional voltada para a formação de des
 ### Docentes
 - **Catarina de Souza Costa:** http://lattes.cnpq.br/3445843226759945
 - **Jair**
-- **Rodrigo**
+- **Rodrigo Silva Souza**
 - ...
   
 ---
